@@ -1,0 +1,70 @@
+583  git clone https://github.com/beeva-julianOjito/GIT-Devops-Tustiniciales.git
+584  git pull
+585  ls
+586  cd GIT-Devops-Tustiniciales/
+587  git pull
+588  subl README.md
+589  git add README.md 
+590  git status
+591  git commit 
+592  git status 
+593  git branch Desarrollo
+594  ls
+595  git branch Produccion
+596  cd ..
+597  ls
+598  cd GIT-Devops-Tustiniciales/
+599  ls
+600  git checkout Produccion 
+601  ls
+602  subl README.md 
+603  subl ejercicios.txt
+604  git checkout master
+605  git checkout Desarrollo 
+606  subl README.md 
+607  git checkout master 
+608  git checkout Produccion 
+609  git status 
+610  git add ejercicios.txt 
+611  git status 
+612  git add README.md 
+613  git status 
+614  git commit
+615  git checkout master 
+616  git checkout Desarrollo 
+617  ls
+618  subl README.md 
+619  git add README.md 
+620  git commit 
+621  git checkout master 
+622  git status 
+623  cat README.md 
+624  git checkout Desarrollo 
+625  cat README.md 
+626  git checkout master 
+627  git checkout Produccion 
+628  ls
+629  git checkout master 
+630  git push
+631  git merge Produccion 
+632  git merge Desarrollo 
+633  git status
+634  git add README.md 
+635  git commit 
+636  git push
+637  git status 
+638  git merge Desarrollo 
+639  git merge Produccion 
+640  ls
+641  cat README.md 
+642  git brach fix
+643  git branch fix
+644  git status
+645  ls
+646  subl README.md 
+647  git checkout master 
+648  git merge fix
+649  git status 
+650  git add README.md 
+651  git commit 
+652  git push
