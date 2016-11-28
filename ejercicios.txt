@@ -1,4 +1,4 @@
-Ejercicios v2.0
+Ejercicios v3.0
 
 583  git clone https://github.com/beeva-julianOjito/GIT-Devops-Tustiniciales.git
 584  git pull
